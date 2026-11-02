@@ -1,4 +1,4 @@
-# jurso-em-ocalm-pra-estudo-d-quant-finance
+# juros-em-ocalm-pra-estudo-d-quant-finance
 juros em ocalm iniciando na linguagem
 é so pra pratica aos poucos esudando gradativamente a lingaugem e a matematica por tras
 # 💰 Calculadora de Juros Compostos em OCaml
